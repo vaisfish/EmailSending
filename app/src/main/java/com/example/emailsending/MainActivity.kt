@@ -18,6 +18,8 @@ import android.util.Log
 import javax.mail.*
 
 class MainActivity : AppCompatActivity() {
+
+    עעעעעעעעעעעעעעעעעע
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
